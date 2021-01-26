@@ -1,4 +1,4 @@
 # CV
 My CV (Resume)
 
-- Last update at 7 September, 2020
+- Last update at 20th December, 2020
